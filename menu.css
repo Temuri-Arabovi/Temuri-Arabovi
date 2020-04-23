@@ -1,0 +1,20 @@
+
+nav {
+  width: 379px;
+  margin: 0 auto 30px;
+}
+.one ul {
+  padding: 1em 0;
+  background: rgb(238, 222, 218);
+}
+.one a {
+  text-decoration: none;
+  padding: 1em;
+  background: rgba(177, 152, 145, .3);
+  border-right: 1px solid tan;
+  color: rgb(105, 151, 189);
+}
+.one a:hover {background: tan;}
+.one li {
+  display: inline;
+}
